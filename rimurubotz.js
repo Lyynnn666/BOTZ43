@@ -162,7 +162,7 @@ text: "\n" + help(prefix, reply, cekUser, namabot, sender) + cr,
 buttonText: "SOSMED(OWNER)",
 mentions: [sender],
 sections: [{ rows: [
-{title: "IG : " + ig, rowId: prefix + "xx"},
+{title: "YT : " + yt, rowId: prefix + "xx"},
 {title: "FB : " + fb, rowId: prefix + "xx"},
 {title: "TT : " + tt, rowId: prefix + "xx"},
 {title: "WA : " + owner, rowId: prefix + "xx"}
